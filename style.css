@@ -1,0 +1,57 @@
+/* Reset some default browser styles */
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Style the header */
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Style the navigation menu */
+nav {
+    background-color: #444;
+    color: #fff;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #fff;
+}
+
+/* Style the main content section */
+main {
+    padding: 20px;
+}
+
+/* Style the footer */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+In this example:
+
+The HTML file (index.html) includes basic page structure, including a header, navigation menu, main content area with sections, and a footer.
+The CSS file (styles.css) contains styles to format and style various elements on the page, such as colors, fonts, margins, and padding.
+This is a very basic example, and a real home page would likely be more complex and include additional elements and styles. Additionally, you might use JavaScript to add interactivity and functionality to your home page, such as form validation or dynamic content loading.
+
+
+
+
+
